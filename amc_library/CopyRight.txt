@@ -1,0 +1,15 @@
+Copyright
+---------
+All source is copyright Jim McCann unless otherwise noted. Feel free to use
+in your own projects (please retain some pointer or reference to the original
+source in a readme or credits section, however).
+
+Contributing back bugfixes and improvements is polite and encouraged but not
+required.
+
+Contact
+-------
+Written by:
+Jim McCann (jmccann@cs.cmu.edu) [http://tchow.com]
+Additional text by Roger Dannenberg (rbd@cs.cmu.edu)
+Feel free to email.
